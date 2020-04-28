@@ -4,7 +4,7 @@ rm -rf *
 mkdir hack hack2
 cd ~
 
-cd laboratory
+cd ooo
 cp hacked.txt /sdcard
 cp hack4.txt /sdcard
 cp hacked.txt /sdcard/hack
